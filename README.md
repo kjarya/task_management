@@ -14,7 +14,7 @@ This repository is a simple Laravel project of Task Management
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-laravel-basics.git
+   git clone https://github.com/kjarya/task_management.git
 
 2. CD inside the project folder and run the migration command 
     
