@@ -1,4 +1,4 @@
-# Laravel Basics
+# Task Management
 
 This repository is a simple Laravel project of Task Management
 
@@ -15,7 +15,7 @@ This repository is a simple Laravel project of Task Management
 
    ```bash
    git clone https://github.com/your-username/your-laravel-basics.git
-   
+
 2. CD inside the project folder and run the migration command 
     
     ```bash
