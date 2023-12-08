@@ -1,13 +1,13 @@
 # Laravel Basics
 
-This repository is a simple Laravel project that demonstrates the basics of Laravel.
+This repository is a simple Laravel project of Task Management
 
 ## Getting Started
 
 ### Prerequisites
 
 - Make sure you have [Composer](https://getcomposer.org/) installed.
-- Make sure you have [PHP](https://www.php.net/) installed.
+- Make sure you have the latest [PHP](https://www.php.net/) installed.
 
 ### Installation
 
@@ -15,3 +15,10 @@ This repository is a simple Laravel project that demonstrates the basics of Lara
 
    ```bash
    git clone https://github.com/your-username/your-laravel-basics.git
+   
+2. CD inside the project folder and run the migration command 
+    
+    ```bash
+    php artisna migrate
+
+That's all!
