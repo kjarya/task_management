@@ -37,7 +37,7 @@ This repository is a simple Laravel project of Task Management
     ```bash
     php artisan migrate
 
-###Usage
+### Usage
 
 1. Run the below command to visit the url in your browser
     
