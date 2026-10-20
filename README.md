@@ -1,4 +1,4 @@
-# Task Management
+# Task Management Application
 
 This repository is a simple Laravel project of Task Management
 
